@@ -1,0 +1,18 @@
+H:\Assessment6B\Assessment6B\bin\Debug\Assessment6B.exe.config
+H:\Assessment6B\Assessment6B\bin\Debug\Assessment6B.exe
+H:\Assessment6B\Assessment6B\bin\Debug\Assessment6B.pdb
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.csprojResolveAssemblyReference.cache
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.Properties.Resources.resources
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.csproj.GenerateResource.Cache
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.exe
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.pdb
+H:\Assessment6B\Assessment6B\obj\Debug\Assessment6B.FileReaderApplicationForm.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\bin\Debug\Assessment6B.exe.config
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.exe
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.pdb
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\bin\Debug\Assessment6B.exe
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\bin\Debug\Assessment6B.pdb
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.FileReaderApplicationForm.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.Properties.Resources.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment6B\Assessment6B\obj\Debug\Assessment6B.csproj.GenerateResource.Cache
