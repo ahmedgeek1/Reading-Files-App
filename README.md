@@ -1,0 +1,2 @@
+# Reading-Files-App
+The purpose of this application is to allow the user to open a data file of their choice and your program will retrieve the contents and display them in a ListBox on your Form.   Your Form will need an ‘Open’ Button to begin the process, as well as an OpenFileDialog control to allow the user to pick a file of their choice.  The OpenFileDialog control should start the user in their ‘C:\’ drive, and should be pre-filtered to only show text files (*.txt).  You will also need a ListBox to display the file contents, and the usual Reset and Close Buttons.
